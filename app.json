@@ -1,7 +1,7 @@
 {
-  "name": "Spoidermon",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
-  "logo": "https://telegra.ph/file/17396c82cc99c597e6366.jpg",
+  "name": "Rolex",
+  "description": "Telegram's sassiest group manager. Modular Telegram group management bot! , Powered by Agunivers",
+  "logo": "https://telegra.ph/file/e6054e87de14194abfb8a.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -12,7 +12,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Agunivers7/tgbot7",
+  "repository": "https://github.com/Agunivers7/Rolex",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables. But, you need to understand the code to know what to set here!",
