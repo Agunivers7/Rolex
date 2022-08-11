@@ -150,7 +150,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text=" 𝘼𝙙𝙙 𝙢𝙚 𝙩𝙤 𝙮𝙤𝙪𝙧 𝙜𝙧𝙤𝙪𝙥", url="t.me/{}?startgroup=true".format(bot.username)),  InlineKeyboardButton(text="𝘾𝙧𝙚𝙖𝙩𝙤𝙧♥️", url="https://t.me/Spoidermon12")],
                      [InlineKeyboardButton(text=" 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥", url="https://t.me/Agunivers_backup"), InlineKeyboardButton(text="🔔𝙅𝙤𝙞𝙣 𝘾𝙝𝙖𝙣𝙣𝙚𝙡", url="https://t.me/+-VTuSl1PSf8xODk1")],
-                     [InlineKeyboardButton(text="𝙎𝙤𝙪𝙧𝙘𝙚", url="https://github.com/Agunivers/tgbot7"), InlineKeyboardButton(text="𝙃𝙚𝙡𝙥", url="https://t.me/{}?start=help".format(bot.username)) ]]))
+                     [InlineKeyboardButton(text="𝙈𝙤𝙫𝙞𝙚 𝙗𝙤𝙩", url="http://t.me/Agunivers_movie_bot"), InlineKeyboardButton(text="𝙃𝙚𝙡𝙥", url="https://t.me/{}?start=help".format(bot.username)) ]]))
 
 
 
